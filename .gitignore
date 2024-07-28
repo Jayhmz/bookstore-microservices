@@ -24,12 +24,8 @@ hs_err_pid*
 replay_pid*
 
 # project ignored files
-# Ignore .mvn directory
 .mvn/
-
-# Ignore .idea directory and its .gitignore file
 .idea/
 .idea/.gitignore
-
-# Ignore the root .gitignore file
 /.gitignore
+target
